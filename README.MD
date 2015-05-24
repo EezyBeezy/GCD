@@ -6,5 +6,5 @@
 ## Basics
 
 Unzip data and make sure it is in your working directory. Run run_analysis.R in your working directery.
-Script should create two output files tidy_data with 10299*68 dimension and avarages_for activities with 180*68.
-Scpit creates txt-file called data_with_avarages.txt with 30 subjects and 6 acticities in total 180 rows.
+Script should create two output files tidy_data with 10299x68 dimension and avarages_for activities with 180x68.
+Scrpit creates txt-file called data_with_averages.txt with 30 subjects and 6 activities in total 180 rows.

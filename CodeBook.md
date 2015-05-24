@@ -28,5 +28,5 @@ same with y. Lastly subject_data containing subject_test and subject_train.
 
 * Creates dataset named tidy_data with average measures for each 30 subjects and 6 activity type.
 
-* Writes outputfile data_with_avarages.txt
+* Writes outputfile data_with_averages.txt
  
